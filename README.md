@@ -10,13 +10,13 @@ Just set up some configurations and add your own **ABI**.
 1. Clone this project:
 
 ```sh
-git clone 
+git clone https://github.com/Elvolution20/Evmos_Phone_Mint.git
 ```
 
 2. Change into the directory:
 
 ```sh
-cd 
+cd Evmos_Phone_Mint
 ```
 
 3. Install the dependencies:
